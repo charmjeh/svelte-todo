@@ -57,7 +57,7 @@
 
 <main>
 	<div class="card">
-		<h1>To Do List</h1>
+		<h1>✍ To Do List</h1>
 		<Input {todo} {addTodo} {handleKeyUp}/>
 		<Todos {todoList} {deleteTodo} {handleComplete}/>
 	</div>
